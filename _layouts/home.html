@@ -1,43 +1,45 @@
 ---
-layout: compress
+layout: default
 ---
 
-<!DOCTYPE html>
-<html>
-{% include head.html %}
-<body id="homepage">
+{% include home-header.html %}
 
-  <div class="block-left">
-    <div class="content">
-      <div class="main-info">
-        <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo }}"></a>
-        <h1>
-          {{ site.title }}
-        </h1>
-        <h2>
-          {{ site.description }}
-        </h2>
-        {% include social-links.html %}
-      </div>
-    </div>
-    <canvas></canvas>
-  </div>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <section class="post-entry">
+    <h2 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h2>
 
-  <div class="block-right">
-    <a href="{{ site.url }}/posts" title="posts" class="posts-menu-icon"></a>
-    <span class="posts-link">POSTS</span>
-    <a title="project" class="projects-menu-icon">
-      <span></span>
-    </a>
-    <span class="projects-link">PROJECTS</span>
-    <div class="content">
-      <div class="about-info">
-        {{ content }}
-      </div>
+    <div class="post-meta">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+      {%- if jekyll.environment == "production" and site.disqus -%}
+        <span> • </span>
+        <a class="comment-count" href="{{ post.url | relative_url }}#disqus_thread">
+          <span class="disqus-comment-count" data-disqus-url="{{ post.url | absolute_url }}"></span>
+        </a>
+      {%- endif -%}
     </div>
-  </div>
-  {% include overlay.html %}
-  {% include scripts.html %}
-  <script src="{{ site.url }}/assets/js/canvas.js"></script>
-</body>
-</html>
+
+    <p>{{ post.excerpt | strip_html }}</p>
+  </section>
+  {% endfor %}
+  {%- if jekyll.environment == "production" and site.disqus -%}
+    <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
+  {%- endif -%}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

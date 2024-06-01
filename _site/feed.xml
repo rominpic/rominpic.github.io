@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="kr"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="kr" /><updated>2024-06-01T12:16:49+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sg-moomi</title><subtitle>세기무민 블로그입니다.</subtitle><author><name>Songzi Vong</name><email>vszhub@gmail.com</email></author><entry><title type="html">파이썬 코딩 레슨 1기 회고록</title><link href="http://localhost:4000/2024/05/18/coding-lesson-review/" rel="alternate" type="text/html" title="파이썬 코딩 레슨 1기 회고록" /><published>2024-05-18T22:57:00+09:00</published><updated>2024-05-18T22:57:00+09:00</updated><id>http://localhost:4000/2024/05/18/coding-lesson-review</id><content type="html" xml:base="http://localhost:4000/2024/05/18/coding-lesson-review/">&lt;!-- This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let&apos;s start looking at text and typography. --&gt;
+
+&lt;h2 id=&quot;-인트로&quot;&gt;&lt;strong&gt;✅ 인트로&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;👨🏻‍💻 코딩 레슨 후기 글은 &lt;a href=&quot;https://sg-moomin.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EC%BD%94%EB%94%A9-%EB%A0%88%EC%8A%A8-1%EA%B8%B0-%ED%9A%8C%EA%B3%A0%EB%A1%9D&quot;&gt;세기무민 코딩 레슨 후기 리뷰&lt;/a&gt;를 참고하면 되며 아래 글은 회고록 요약 글입니다.&lt;/p&gt;
+
+&lt;p&gt;이에 따라 이미지 첨부는 별도로 진행하지 않았으며 수업 관련 이미지가 궁금할 경우 &lt;a href=&quot;https://sg-moomin.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EC%BD%94%EB%94%A9-%EB%A0%88%EC%8A%A8-1%EA%B8%B0-%ED%9A%8C%EA%B3%A0%EB%A1%9D&quot;&gt;세기무민 코딩 레슨 후기 리뷰&lt;/a&gt; 에서 확인 부탁 드립니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;-강사-소개&quot;&gt;&lt;strong&gt;✅ 강사 소개&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Coding Class의 강사진은 2명이며 아래와 같습니다.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;세기무민(sg-moomin)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;GitHub : &lt;a href=&quot;https://github.com/sg-moomin&quot;&gt;https://github.com/sg-moomin&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ONECH&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;GitHub : &lt;a href=&quot;https://github.com/ONECHANHO&quot;&gt;https://github.com/ONECHANHO&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;-1기-수업-과정-요약&quot;&gt;&lt;strong&gt;✅ 1기 수업 과정 요약&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;수업 내용 정리&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Orientation&lt;/strong&gt; : 1시간으로 진행&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;본 수업&lt;/strong&gt; : 1주 1회 2시간 진행, 8주차 과정, Discode 채널로 진행&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;수업 진행 상세&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;디스코드 라운지 채널을 이용하여 &lt;strong&gt;온라인 강의 진행&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;수업 진행 방식은 &lt;strong&gt;과제 리뷰 진행 후 금주 수업 범위에 대해 강의 및 리뷰&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;과제 리뷰는 수업 시간에 진행되며 강사진이 숙제 내용에 대해 상세하게 리뷰&lt;/li&gt;
+      &lt;li&gt;필요 자료는 &lt;strong&gt;디스코드 채널&lt;/strong&gt;을 통해 제공&lt;/li&gt;
+      &lt;li&gt;강의 자료, 숙제, 기타 문의 내용에 대해 디스코드 채널을 통해 지원 &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;1기-8주차-과정-상세&quot;&gt;&lt;strong&gt;✅1기 8주차 과정 상세&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;해당 회고록에서는 강의 자료는 첨부하지 않았습니다.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1주차~3주차 : 환경 셋팅 및 파이썬 기초 설명&lt;/li&gt;
+  &lt;li&gt;4주차 : Git/GitHub 기초 설명 및 설정 &lt;/li&gt;
+  &lt;li&gt;5주차 : 수업 복습을 위한 기초 알고리즘 풀이 &lt;/li&gt;
+  &lt;li&gt;6주차~8주차 : 미니 프로젝트 및 수업 내용 복습 
+    &lt;ul&gt;
+      &lt;li&gt;1기의 경우 강의를 듣는 학생 수가 적어서 미니 프로젝트를 조금 유동적으로 진행&lt;/li&gt;
+      &lt;li&gt;고객이 원하던 조코딩 유튜브에서 진행되는 웹 크롤링과 웹 개발 수업으로 진행 &lt;/li&gt;
+      &lt;li&gt;8주차는 수업 내용 복습과 강의 후기 설문&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;--강의-후기-요약&quot;&gt;&lt;strong&gt;✅  강의 후기 요약&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;수강생은 비전공자였으나 IT 분야에 매우 많은 관심이 있는 편&lt;/li&gt;
+  &lt;li&gt;본업이 아님에 따라 강의를 따라오는데에 허들이 있었으나 관심있는 분야에 대해 유튜브로 찾아서 질의 및 요청을 함&lt;/li&gt;
+  &lt;li&gt;수업과 연관성 없던 내용이였으나 강의로 제작하여 수강생에게 제공하여 도움을 드림&lt;/li&gt;
+  &lt;li&gt;이에 따라 수강생 입장에서도 도움이 되었으며 강사진 입장에서도 많은 것들을 배울 수 있던 클래스였다고 생각함&lt;/li&gt;
+  &lt;li&gt;강의에서 단순히 수업 커리큘럼에 따라가는 것도 중요하지만 때로는 &lt;strong&gt;고객의 니즈를 파악하여 수업으로 제공하는 것이 중요&lt;/strong&gt;하다는 것을 느낌&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;--마치며&quot;&gt;&lt;strong&gt;✅  마치며&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;강의를 제작하면서 시행착오가 있었으나 많은 것들을 배울 수 있었음&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;코딩-레슨-정보&quot;&gt;&lt;strong&gt;코딩 레슨 정보&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;코딩 레슨과 관련된 내용은 아래의 링크에서 확인이 가능합니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sg-moomin.github.io/2024/03/03/coding-lesson/&quot;&gt;코딩 레슨 모집 정보&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;코딩-레슨-2기-모집&quot;&gt;&lt;strong&gt;코딩 레슨 2기 모집&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;2기 수업은 크몽에서 현재 진행중에 있으며 아래 링크에서 신청 가능합니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kmong.com/gig/549534&quot;&gt;Onech&amp;amp;Sgmoomin 코딩 클레스&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>sg-moomin</name></author><category term="코딩레슨" /><summary type="html"></summary></entry><entry><title type="html">파이썬 코딩 레슨</title><link href="http://localhost:4000/2024/03/03/coding-lesson/" rel="alternate" type="text/html" title="파이썬 코딩 레슨" /><published>2024-03-03T22:57:00+09:00</published><updated>2024-03-03T22:57:00+09:00</updated><id>http://localhost:4000/2024/03/03/coding-lesson</id><content type="html" xml:base="http://localhost:4000/2024/03/03/coding-lesson/">&lt;!-- This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let&apos;s start looking at text and typography. --&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/post/2024/20240303_1.jpeg&quot; alt=&quot;coding-lesson&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;-모집-개요&quot;&gt;🤚 모집 개요&lt;/h1&gt;
+&lt;h3 id=&quot;-대상자&quot;&gt;✅ 대상자&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;코딩 입문자 및 코딩 초급자&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-서비스-내용-️️&quot;&gt;✅ 서비스 내용 ✍️️&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;기초 코딩(자료형, 조건/제어문, 함수 등)&lt;/li&gt;
+  &lt;li&gt;기초 알고리즘(간단한 코딩테스트)&lt;/li&gt;
+  &lt;li&gt;기초 프로젝트&lt;/li&gt;
+  &lt;li&gt;심화 프로젝트&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-전문가-소개&quot;&gt;✅ 전문가 소개👨‍💻&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;sg-moomin
+    &lt;ul&gt;
+      &lt;li&gt;Link : &lt;a href=&quot;https://sg-moomin.github.io/about&quot;&gt;세기무민 About Me 보러가기&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;onech&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-준비물&quot;&gt;✅ 준비물🎒&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;개인 노트북&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;-상세-내용-설명&quot;&gt;🤚 상세 내용 설명&lt;/h1&gt;
+&lt;h3 id=&quot;-서론&quot;&gt;✅ 서론&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;파이썬 및 자바에 관심은 있는데 학원이나 국비지원을 받기에는 부담이 되는 사람들을 위해 코딩 입문반 그룹 과외를 진행합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;✅ 수업 내용&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;코딩 기초 학습 및 심플 프로젝트 개발을 진행합니다.&lt;/li&gt;
+  &lt;li&gt;고객의 니즈에 맞춰 유연하게 커리큘럼을 제공하며 이에 따라 오리엔테이션을 진행합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;✅ 강사진 소개&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;sg-moomin
+    &lt;ul&gt;
+      &lt;li&gt;판교에 위치한 IT 기업에서 백엔드 개발자로 일하고 있습니다.&lt;/li&gt;
+      &lt;li&gt;메인 기술 스택은 자바, Spring, 자바스크립트 기반 프레임워크(react.js, vue.js)를 다루고 있습니다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;onech
+    &lt;ul&gt;
+      &lt;li&gt;데이터 분석 및 크롤링 프로젝트를 통해 파이썬 지식에 대한 전문성을 가지고 있는 개발자입니다.&lt;/li&gt;
+      &lt;li&gt;더 나아가 기업과 협업하여 프로젝트를 진행한 경험이 있습니다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;✅ 비용&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;시간 당 20000원&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;✅ 문의 
+Mail&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;rooney9325@gmail.com&lt;/li&gt;
+  &lt;li&gt;jch789471@gmail.com&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>sg-moomin</name></author><category term="코딩레슨" /><summary type="html"></summary></entry><entry><title type="html">sg-moomin prologue</title><link href="http://localhost:4000/2023/10/09/prologue/" rel="alternate" type="text/html" title="sg-moomin prologue" /><published>2023-10-09T22:57:00+09:00</published><updated>2023-10-09T22:57:00+09:00</updated><id>http://localhost:4000/2023/10/09/prologue</id><content type="html" xml:base="http://localhost:4000/2023/10/09/prologue/">&lt;!-- This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let&apos;s start looking at text and typography. --&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/post/20231009_1.jpeg&quot; alt=&quot;Github_Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;sg-moomin-prologue&quot;&gt;Sg-moomin Prologue&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;간단한 자기소개&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;백앤드 개발자를 꿈꾸는 평범한 직장인
+About Me&lt;/li&gt;
+    &lt;li&gt;Career
+      &lt;ul&gt;
+        &lt;li&gt;AhnLab(2022.08~)
+          &lt;ul&gt;
+            &lt;li&gt;업무 👉  웹 서비스 개발 및 운영(front/back)&lt;/li&gt;
+            &lt;li&gt;기술 스택
+              &lt;ul&gt;
+                &lt;li&gt;Java, k8s, vue, react&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;웅진 IT(2021.07~2022.08)
+          &lt;ul&gt;
+            &lt;li&gt;업무 👉  수납, 서비스, 물류 ERP 모듈 유지보수 업무
+              &lt;ul&gt;
+                &lt;li&gt;채권 채무 관련 I/F 설계 및 개발 중&lt;/li&gt;
+                &lt;li&gt;알림톡, 배치 프로시저 관련 개발 및 유지보수&lt;/li&gt;
+                &lt;li&gt;자동이체, 계좌 및 CMS 유효성 체크 등 수납  관련 업무 수행&lt;/li&gt;
+                &lt;li&gt;서비스, 물류 모듈 관련 유지보수 업무 수행&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;기술 스택
+              &lt;ul&gt;
+                &lt;li&gt;Java, javascript
+기타 Blog&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;tistory : &lt;a href=&quot;https://sg-moomin.tistory.com/&quot;&gt;새벽 기상을 꿈꾸는 세기무민&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;naver : &lt;a href=&quot;https://blog.naver.com/rooney9325&quot;&gt;루민&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;velog : &lt;a href=&quot;https://velog.io/@sg-moomin&quot;&gt;sg-moomin&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>sg-moomin</name></author><category term="프롤로그" /><category term="세기무민" /><summary type="html"></summary></entry></feed>
